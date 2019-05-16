@@ -14,5 +14,8 @@
 0007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|cpp|java|[solution](Python/ReverseInteger.py)
 0008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|cpp|java|[solution](Python/StringtoInteger.py)
 0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|cpp|java|[solution](Python/PalindromeNumber.py)
-0010|[PalindromeNumber](https://leetcode.com/problems/palindrome-number/)|cpp|java|python
+0010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|cpp|java|[dfs](Python/RegularExpressionMatching_dfs.py)<br>[dp](Python/RegularExpressionMatching_dp.py)
+0011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[two point](Cpp/ContainerWithMostWater.cpp)|java|python
+0012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|cpp|java|[solution](Python/IntegerToRoman.py)
+0013|[3Sum](https://leetcode.com/problems/3sum/)|cpp|java|[O(N^2)](Python/3Sum.py)
 
