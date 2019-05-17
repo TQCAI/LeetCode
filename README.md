@@ -17,5 +17,9 @@
 0010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|cpp|java|[dfs](Python/RegularExpressionMatching_dfs.py)<br>[dp](Python/RegularExpressionMatching_dp.py)
 0011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[two point](Cpp/ContainerWithMostWater.cpp)|java|python
 0012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|cpp|java|[solution](Python/IntegerToRoman.py)
-0013|[3Sum](https://leetcode.com/problems/3sum/)|cpp|java|[O(N^2)](Python/3Sum.py)
+0013|
+0014|
+0015|[3Sum](https://leetcode.com/problems/3sum/)|cpp|java|[O(N^2)](Python/3Sum.py)
+0016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|cpp|java|[solution](Python/3SumClosest.py)
+0017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|cpp|java|[solution](Python/LetterCombinationsOfAPhoneNumber.py)
 
