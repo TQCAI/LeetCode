@@ -22,4 +22,5 @@
 0015|[3Sum](https://leetcode.com/problems/3sum/)|cpp|java|[O(N^2)](Python/3Sum.py)
 0016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|cpp|java|[solution](Python/3SumClosest.py)
 0017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|cpp|java|[solution](Python/LetterCombinationsOfAPhoneNumber.py)
-
+0018|
+0019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[pass1](Cpp/RemoveNthNodeFromEndOfList_1pass.cpp)<br>[pass1](Cpp/RemoveNthNodeFromEndOfList_2pass.cpp)|java|python
