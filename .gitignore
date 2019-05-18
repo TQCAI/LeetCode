@@ -1,6 +1,6 @@
-
+*.exe
 venv
 cmake-build-debug/
 .idea/
-.vscode/
 __pycache__
+.vscode/ipch/

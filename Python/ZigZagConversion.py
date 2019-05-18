@@ -1,20 +1,20 @@
 class Solution:
     def convert(self, s: str, numRows: int) -> str:
-        lines=['']*numRows
-        index=0
-        n=len(s)
+        lines = ['']*numRows
+        index = 0
+        n = len(s)
         try:
-            while index<n:
+            while index < n:
                 # vertical
                 for i in range(numRows):
-                    lines[i]+=s[index]
-                    index+=1
-                    if index>=n:
+                    lines[i] += s[index]
+                    index += 1
+                    if index >= n:
                         raise Exception
                 for i in range(numRows-2):
-                    target=numRows-i-2
+                    target = numRows-i-2
                     for j in range(numRows):
-                        if j==target:
+                        if j == target:
                             lines[j] += s[index]
                             index += 1
                         else:
@@ -23,15 +23,17 @@ class Solution:
                             raise Exception
         except Exception:
             pass
+
         # print(*lines,sep='\n')
-        ans=''
+        ans = ''
         for line in lines:
             for c in line:
-                if c!=' ':
-                    ans+=c
+                if c != ' ':
+                    ans += c
+
         return ans
 
 
-
-Solution().convert('LEETCODEISHIRINGB',4)
+ans = Solution().convert('LEETCODEISHIRINGB', 4)
+print(ans)
 

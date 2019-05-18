@@ -7,7 +7,7 @@
  * };
  */
 class Solution {
-public:
+    public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
         ListNode* ans=new ListNode(0);
         ListNode* p1=l1;
@@ -28,6 +28,7 @@ public:
         }
         if(carry)
             p3->next=new ListNode(carry);
-        return ans->next;
+        
+           return ans->next;
     }
 };

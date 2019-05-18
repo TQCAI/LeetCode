@@ -16,6 +16,7 @@ class Solution:
                     s += 1
                 else:
                     e -= 1
+                print()
         return ans
 
 
