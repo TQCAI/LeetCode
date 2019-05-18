@@ -24,3 +24,6 @@
 0017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|cpp|java|[solution](Python/LetterCombinationsOfAPhoneNumber.py)
 0018|
 0019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[pass1](Cpp/RemoveNthNodeFromEndOfList_1pass.cpp)<br>[pass1](Cpp/RemoveNthNodeFromEndOfList_2pass.cpp)|java|python
+0020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|cpp|[solution](Java/src/ValidParentheses/Solution.java)|[solution](Python/ValidParentheses.py)|stack
+0021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|
+0022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|cpp|java|[dfs](Python/GenerateParentheses_dfs.py)<br>dp
